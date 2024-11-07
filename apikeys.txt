@@ -1,0 +1,2 @@
+apikey="PASTE PUBLIC API KEY HERE"
+secretapikey="PASTE SECRET KEY HERE"
